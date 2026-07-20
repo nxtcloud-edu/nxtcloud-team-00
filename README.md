@@ -36,17 +36,22 @@
 
 ---
 
-## 2. [팀장 전용] 팀원 초대하기
+## 2-1. [팀장 전용] 팀원 초대하기
 
 1. 레포 페이지 상단의 **Settings** 탭 클릭
 2. 왼쪽 메뉴에서 **Collaborators and teams** 클릭 (레포 설정에 따라 **Collaborators**로 보이기도 합니다)
 3. **Add people** 버튼 클릭 후 팀원의 GitHub 아이디 또는 이메일 입력
 4. 권한 레벨은 **Write**로 지정
-5. 초대받은 팀원은 이메일 또는 GitHub 알림으로 초대를 수락
 
 ![Settings 왼쪽 메뉴에서 Collaborators and teams 클릭](./images/crop_settings_sidebar.png)
 
 ![Add people 버튼 클릭 후 팀원 GitHub 이름 입력, 권한은 Write로 지정](./images/crop_add_people.png)
+
+---
+
+## 2-2. [팀원 전용] 초대 수락하기
+
+팀장이 초대를 보내면 이메일 또는 GitHub 알림으로 초대 메시지가 도착합니다. 메일이나 알림에 있는 링크를 열어서 **Accept invitation**(초대 수락) 버튼을 누르면 레포에 접근할 수 있게 됩니다.
 
 ---
 
